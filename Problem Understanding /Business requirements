@@ -1,20 +1,59 @@
-BUSINESS REQUIREMENT
+BUSINESS REQUIREMENTS
+The business requirements describe what the insurance company needs from the fraud detection system
+in order to reduce losses and improve operational efficiency.
 
-Every day, insurance companies handle thousands of claims. Many of these claims are fraudulent, 
-meaning that people purposefully give inaccurate or inflated information in order to profit financially.
-Insurance companies suffer significant financial losses as a result of fraudulent claims, which also raise operating expenses.
-Conventional fraud detection techniques mostly rely on rule-based systems and manual investigation, 
-which are frequently costly, time-consuming, and less successful at spotting intricate fraud patterns.
-As a result, an intelligent system that can automatically evaluate insurance claim data 
-and precisely and effectively detect possible fraudulent claims is required.
-The goal of this project is to create a machine learning model that evaluates past insurance claim
-information to determine whether a claim is authentic or fraudulent. By putting this system into place
+1️. Fraud Detection System
+The system must be able to identify potentially fraudulent insurance claims based on historical claim data and customer information.
+
+2️. Automated Claim Analysis
+The system should automatically analyze claim data such as:
+
+   Policy details
+   Customer information
+   Incident details
+   Claim amount
+   Accident severity
+
+3️. Real-Time Fraud Prediction
+The model should allow the company to predict fraud in real time when a new claim is submitted.
+
+The system should classify claims as:
+
+   Fraudulent
+   Legitimate
+
+4️. High Prediction Accuracy
+The machine learning model should achieve high accuracy and reliability so that the company can trust the predictions while reviewing claims.
+
+5️. Risk-Based Claim Prioritization
+The system should help investigators by flagging high-risk claims that require further investigation.
+This allows the fraud investigation team to focus on suspicious claims first.
+
+6️. Easy Integration
+The fraud detection system should be able to integrate with the company’s existing claim management system.
+This ensures smooth implementation without disrupting current business processes.
+
+7️. Data Visualization and Reporting
+The system should provide insights such as:
+
+   Fraud patterns
+   Fraud rate
+   High-risk claim categories
+
+8️. Scalable Solution
+The system should be scalable so it can handle large volumes of insurance claims in the future.
+
+9️. User-Friendly Interface
+The application should provide a simple interface where users can input claim details and receive fraud predictions easily.
+
+10. Data Security
+The system should ensure secure handling of sensitive customer and insurance data to protect privacy and comply with regulations.
 
   BUSINESS OBJECTIVE
 
 The main objectives of this project are:
 
-Detect fraudulent insurance claims using machine learning.
-Reduce financial losses caused by fraud.
-Improve the efficiency of claim processing.
-Assist investigators in identifying high-risk claims quickly.
+   Detect fraudulent insurance claims using machine learning.
+   Reduce financial losses caused by fraud.
+   Improve the efficiency of claim processing.
+   Assist investigators in identifying high-risk claims quickly.
