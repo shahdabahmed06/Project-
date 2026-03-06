@@ -1,3 +1,5 @@
+BUSINESS REQUIREMENT
+
 Every day, insurance companies handle thousands of claims. Many of these claims are fraudulent, 
 meaning that people purposefully give inaccurate or inflated information in order to profit financially.
 Insurance companies suffer significant financial losses as a result of fraudulent claims, which also raise operating expenses.
@@ -8,7 +10,7 @@ and precisely and effectively detect possible fraudulent claims is required.
 The goal of this project is to create a machine learning model that evaluates past insurance claim
 information to determine whether a claim is authentic or fraudulent. By putting this system into place
 
-  Business Objective
+  BUSINESS OBJECTIVE
 
 The main objectives of this project are:
 
