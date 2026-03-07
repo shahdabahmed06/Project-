@@ -11,11 +11,11 @@ The system must be able to identify potentially fraudulent insurance claims base
 
 The system should automatically analyze claim data such as:
 
-   Policy details
-   Customer information
-   Incident details
-   Claim amount
-   Accident severity
+*Policy details
+*Customer information
+*Incident details
+*Claim amount
+*Accident severity
 
 3️. REAL-TIME FRAUD PREDICTION
 
@@ -23,8 +23,8 @@ The model should allow the company to predict fraud in real time when a new clai
 
 The system should classify claims as:
 
-   Fraudulent
-   Legitimate
+*Fraudulent
+*Legitimate
 
 4️. HIGH PREDICTION ACCURACY
 
@@ -44,9 +44,9 @@ This ensures smooth implementation without disrupting current business processes
 
 The system should provide insights such as:
 
-   Fraud patterns
-   Fraud rate
-   High-risk claim categories
+*Fraud patterns
+*Fraud rate
+*High-risk claim categories
 
 8️. SCALABLE SOLUTION
 
@@ -64,8 +64,8 @@ The system should ensure secure handling of sensitive customer and insurance dat
 
 The main objectives of this project are:
 
-   Detect fraudulent insurance claims using machine learning.
-   Reduce financial losses caused by fraud.
-   Improve the efficiency of claim processing.
-   Assist investigators in identifying high-risk claims quickly.
+*Detect fraudulent insurance claims using machine learning.
+*Reduce financial losses caused by fraud.
+*Improve the efficiency of claim processing.
+*Assist investigators in identifying high-risk claims quickly.
 
